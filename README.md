@@ -28,11 +28,11 @@ node index.js
 ```
 
 ## API Endpoints
-POST /books – Add a new book
-GET /books – Get all books
-GET /books/:id – Get book by ID
-PUT /books/:id – Update book
-DELETE /books/:id – Delete book
+- POST /books – Add a new book
+- GET /books – Get all books
+- GET /books/:id – Get book by ID
+- PUT /books/:id – Update book
+- DELETE /books/:id – Delete book
 
 ## Testing
 All API endpoints were tested using Postman.
