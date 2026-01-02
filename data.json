@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Potter",
+    "genre": "Drama",
+    "author": "Oscar Wilde"
+  }, 
+  {
+    "id": 2,
+    "name": "A Christmas Carol",
+    "genre": "Fantasy",
+    "author": "Charles Dickens"
+  }
+]
