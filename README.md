@@ -21,3 +21,18 @@ This project implements a basic CRUD (Create, Read, Update, Delete) REST API usi
 Install dependencies:
 ```bash
 npm install
+```
+## Start the server:
+```bash
+node index.js
+```
+
+## API Endpoints
+POST /books – Add a new book
+GET /books – Get all books
+GET /books/:id – Get book by ID
+PUT /books/:id – Update book
+DELETE /books/:id – Delete book
+
+## Testing
+All API endpoints were tested using Postman.
