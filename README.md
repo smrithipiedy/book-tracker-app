@@ -1,4 +1,4 @@
-# Simple Book Tracking API
+# Book Tracking API
 This project implements a basic CRUD (Create, Read, Update, Delete) REST API using Node.js and Express.js to manage book records.
 
 ## Features
@@ -34,10 +34,4 @@ node index.js
 - DELETE /books/:id – Delete book
 
 ## Testing
-All CRUD operations were tested using Postman by sending HTTP requests to the respective endpoints.
-The database operations were verified using MongoDB Compass.
-
-## Notes
-- MongoDB must be running locally on port 27017.
-- MongoDB Compass is used only for visualization and verification.
-- Book records are stored in the libraryDB database under the books collection.
+Testing was done using Postman.
